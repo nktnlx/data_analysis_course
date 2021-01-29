@@ -26,15 +26,15 @@ The course curriculum includes the following technologies and topics mastered by
 19. Product Development basics
 20. Product Management basics
 21. Softskills  
-  
-  
-  
-  
-  
-List of projects:
+   
+   
+   
+   
+   
+**List of projects:**
 1. Taxi in NYC -- analising NYC taxi orders with Pandas. Read_csv, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis.
 2. Hotel Bookings -- analising hotel bookings with Pandas. Read_csv, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis. Customers **Churn rate** was calculated.  
-3. tbc..       
+3. User Logs -- analising customers data. Finding the most popular platform and the most active users. Visualizing data with Seaborn distplot, barplot and countplot methods.       
 
 
 Hope this repo will help you to assess my coding, data analytics and SQL skills or will be just fun for you to look through.    
