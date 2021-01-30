@@ -36,6 +36,7 @@ The course curriculum includes the following technologies and topics mastered by
 2. Hotel Bookings -- analising hotel bookings with Pandas. Read_csv, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis. Customers **Churn rate** was calculated.  
 3. User Logs -- analising customers data. Finding the most popular platform and the most active users. Visualizing data with Seaborn distplot, barplot and countplot methods.       
 4. Taxi in Peru -- analising  taxi orders in Peru with Pandas. An Exploratory Data Analysis was performed. Drivers' score, passengers' score, **DAU** and **MAU** metrics were calculated and plotted with Seaborn.   
+5. Raw Data Handling -- creating dataframe from a set of csv-files stored in various folders. Practicing Python skills to automate data handling.  
 
 
 Hope this repo will help you to assess my coding, data analytics and SQL skills or will be just fun for you to look through.    
