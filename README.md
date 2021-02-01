@@ -38,6 +38,11 @@ The course curriculum includes the following technologies and topics mastered by
 4. Taxi in Peru -- analising  taxi orders in Peru with Pandas. An Exploratory Data Analysis was performed. Drivers' score, passengers' score, **DAU** and **MAU** metrics were calculated and plotted with Seaborn.   
 5. Raw Data Handling -- creating dataframe from a set of csv-files stored in various folders. Practicing Python skills to automate data handling.  
 6. Retail in Germany -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, quantile and str methods were used for Exploratory Data Analysis. 
+7. Error in Transactions Data -- we've found and corrected an error while analysing a dataset with transactions. Plotting data in logarithmic scale, converting data to datetime format as well as implementing describe, isna, sum, value_counts, groupby, agg, query, sort_values, rename, min, max and pivot methods were used for Exploratory Data Analysis.   
+
+
+
+
 
 
 Hope this repo will help you to assess my coding, data analytics and SQL skills or will be just fun for you to look through.    
