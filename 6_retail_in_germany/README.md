@@ -1,7 +1,7 @@
 This is the sixth dataset analysed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
 
 
-Retail in Germany -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, and str methods were used for Exploratory Data Analysis.  
+Retail in Germany -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, quantile and str methods were used for Exploratory Data Analysis.  
 
 
 

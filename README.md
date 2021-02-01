@@ -37,7 +37,7 @@ The course curriculum includes the following technologies and topics mastered by
 3. User Logs -- analising customers data. Finding the most popular platform and the most active users. Visualizing data with Seaborn distplot, barplot and countplot methods.       
 4. Taxi in Peru -- analising  taxi orders in Peru with Pandas. An Exploratory Data Analysis was performed. Drivers' score, passengers' score, **DAU** and **MAU** metrics were calculated and plotted with Seaborn.   
 5. Raw Data Handling -- creating dataframe from a set of csv-files stored in various folders. Practicing Python skills to automate data handling.  
-6. Retail in Germany -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, and str methods were used for Exploratory Data Analysis. 
+6. Retail in Germany -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, quantile and str methods were used for Exploratory Data Analysis. 
 
 
 Hope this repo will help you to assess my coding, data analytics and SQL skills or will be just fun for you to look through.    
