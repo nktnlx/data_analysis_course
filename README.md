@@ -22,7 +22,7 @@ The course curriculum includes the following technologies and topics mastered by
 15. Bootstrapping
 16. Power Analysis
 17. Tableau
-18. DAU, MAU, ARPU, LTV, Retention and other metrics
+18. DAU, MAU, ARPU, LTV, Retention, CR and other metrics
 19. Product Development basics
 20. Product Management basics
 21. Softskills  
@@ -39,8 +39,9 @@ The course curriculum includes the following technologies and topics mastered by
 5. Raw Data Handling -- creating dataframe from a set of csv-files stored in various folders. Practicing Python skills to automate data handling.  
 6. Retail in Germany -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, quantile and str methods were used for Exploratory Data Analysis. 
 7. Error in Transactions Data -- we've found and corrected an error while analysing a dataset with transactions. Plotting data in logarithmic scale, converting data to datetime format as well as implementing describe, isna, sum, value_counts, groupby, agg, query, sort_values, rename, min, max and pivot methods were used for Exploratory Data Analysis.   
-8. Avocado Price -- Comparing avocado average, simple moving average and exponential weighted average price values. Categorizing delay data and labelling it. Plotting results with help of subplots and interactive Plotly plots.  
-9. Ads Campaign -- Plotting data in logarithmic scale to find the type of data distribution, finding ad_id with an anomalistict number of views. Comparing average and simple moving average views data. Categorizing clients' registration data and labelling it. Plotting results with help of interactive Plotly plot.  
+8. Avocado Price -- comparing avocado average, simple moving average and exponential weighted average price values. Categorizing delay data and labelling it. Plotting results with help of subplots and interactive Plotly plots.  
+9. Ads Campaign -- plotting data in logarithmic scale to find the type of data distribution, finding ad_id with an anomalistict number of views. Comparing average and simple moving average views data. Calculating clients' registartion to publishing ad conversion rate (**CR**). Categorizing clients' registration data and labelling it. Plotting results with help of interactive Plotly plot.  
+10. Visits by Browser -- analising web-site visits. Defining proportion of real users and visits by bots. Findig the most popular browser for users and for bots. Barplotting results, downloading data using **Google Docs API** and merging it to our dataframe. Read_csv, groupby, agg, query, sort_values, pivot, fillna, assign and merge methods were used for Exploratory Data Analysis.
 
 
 
