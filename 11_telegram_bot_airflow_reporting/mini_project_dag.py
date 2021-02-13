@@ -1,6 +1,7 @@
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from datetime import datetime
+import pandas as pd
 
 
 # default arguments for airflow
@@ -25,7 +26,6 @@ df = pd.read_csv(url, parse_dates=['date', 'time'])
 
 # calculating dataframe with all necessary metrics for reporting
 def calc_metrics(df):
-    import pandas as pd
     # count views
     views = ( df.query('event == "view"') 
     .groupby(['date'], as_index=False) 
