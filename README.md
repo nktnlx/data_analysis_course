@@ -43,7 +43,7 @@ The course curriculum includes the following technologies and topics mastered by
 9. **Ads Campaign** -- plotting data in logarithmic scale to find the type of data distribution, finding ad_id with an anomalistic number of views. Comparing average and simple moving average views data. Calculating clients' registration to publishing ad conversion rate (**CR**). Categorizing clients' registration data and labeling it. Plotting results with help of interactive Plotly plot.  
 10. **Visits by Browser** -- analising web-site visits. Defining proportion of real users and visits by bots. Finding the most popular browser for users and for bots. Bar-plotting results, downloading data using **Google Docs API** and merging it to our dataframe. Read_csv, groupby, agg, query, sort_values, pivot, fillna, assign and merge methods were used for Exploratory Data Analysis.
 11. **Telegram Bot Airflow Reporting**  -- reading an advertising campaign data from Google Docs spreadsheet, creating pandas dataframe to calculate clicks, views, **CTR** and money spent on the campaign. Calculating day by day change of the metrics, writing report with results to a txt file and sending this file via telegram bot to your mobile phone. The script is executed by Airflow every Monday at 12:00 p.m.   
-12. **SQL Tasks** -- SQL excercises done by me while passing this data analysis course.  
+12. **SQL Tasks** -- SQL excercises done by me while passing this data analysis course. Clickhouse (via Tabix) was used to solve the tasks.  
 
 
 
