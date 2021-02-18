@@ -45,6 +45,7 @@ The course curriculum includes the following technologies and topics mastered by
 11. **Telegram Bot Airflow Reporting**  -- reading an advertising campaign data from Google Docs spreadsheet, creating pandas dataframe to calculate clicks, views, **CTR** and money spent on the campaign. Calculating day by day change of the metrics, writing report with results to a txt file and sending this file via telegram bot to your mobile phone. The script is executed by Airflow every Monday at 12:00 p.m.   
 12. **SQL Tasks** -- SQL exercises done by me while passing this data analysis course. Clickhouse (via Tabix) was used to solve the tasks.  
 13. **NYC taxi & timeit optimization** -- calculating distance of a ride using pick-up and drop-off coordinates. Compared a couple of ways to apply distance calculation to the dataframe. The optimization helped to decrease calculation run-time about 3276 times! Checked calculation results, found outliers using boxplot graphs and descriptive statistics. Fixed dataframe by removing outliers and found the cost of the longest ride.  
+14. **Bikes rent in Chicago** -- dates to dateformat conversion, resampling data to aggregate by days, automatically merging data from distinct files into one dataframe using os.walk(), differentiating bikes rents by user type, finding the most popular destination points overall and based on the week of the day.  
 
 
 
