@@ -48,7 +48,8 @@ The course curriculum includes the following technologies and topics mastered by
 14. **Bikes rent in Chicago** -- dates to dateformat conversion, resampling data to aggregate by days, automatically merging data from distinct files into one dataframe using os.walk(), differentiating bikes rents by user type, finding the most popular destination points overall and based on the week of the day.  
 15. **Bookings in London** -- used Pandahouse and SQL queries to import data from Clickhouse into pandas dataframe. Processed imported data and performed Exploratory Data Analysis. Built scatterplot, distplot, lineplot and heatmap using Seaborn and Matplotlib.  
 16. **Retail dashboard** -- built a series of visualizations and a dashboard using SQL queries and Redash. Calculated and checked the dynamics of **MAU** and **AOV**. Found an anomaly in data, defined the market generating the majority of revenue, analyzed the most popular goods sold in the store. Wrote a dashboard summary with recommendation to push up sales.
-17. **Video games** --  analising video games sales dynamics with Pandas. Read_csv, head, columns, dtypes, info, isna, dropna, describe, mode, shape, groupby, agg, sort_values, rename, index, to_list, value_count methods were user for Exploratory Data Analysis. Barplot, boxplot and lineplot were used for graphing results.  
+17. **Video games** --  analising video games sales dynamics with Pandas. Read_csv, head, columns, dtypes, info, isna, dropna, describe, mode, shape, groupby, agg, sort_values, rename, index, to_list, value_counts methods were user for Exploratory Data Analysis. Barplot, boxplot and lineplot were used for graphing results.    
+18. **Ads conversion** -- calculating **CTR, CPC, CR** metrics. Plotting them using distplot, hist, displot and histplot methods.
 
 
 
