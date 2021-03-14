@@ -1,4 +1,4 @@
-This is the tenth dataset analyzed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
+This is the fifteenth dataset analyzed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
 
 
 Bookings in London -- used Pandahouse and SQL queries to import data from Clickhouse into pandas dataframe. Processed imported data and performed Exploratory Data Analysis. Built scatterplot, distplot, lineplot and heatmap using Seaborn and Matplotlib.  

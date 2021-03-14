@@ -1,4 +1,4 @@
-This is the tenth dataset analyzed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
+This is the eleventh dataset analyzed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
 
 
 Telegram Bot Airflow Reporting  -- reading an advertising campaign data from Google Docs spreadsheet, creating pandas dataframe to calculate clicks, views, **CTR** and money spent on the campaign. Calculating day by day change of the metrics, writing report with results to a txt file and sending this file via telegram bot to your mobile phone. The script is executed by Airflow every Monday at 12:00 p.m. 

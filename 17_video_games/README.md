@@ -1,4 +1,4 @@
-This is the tenth dataset analyzed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
+This is the seventeenth dataset analyzed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
 
 
 Video games --  analising video games sales dynamics with Pandas. Read_csv, head, columns, dtypes, info, isna, dropna, describe, mode, shape, groupby, agg, sort_values, rename, index, to_list, value_count methods were user for Exploratory Data Analysis. Barplot, boxplot and lineplot were used for graphing results.    
