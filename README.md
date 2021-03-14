@@ -50,6 +50,7 @@ The course curriculum includes the following technologies and topics mastered by
 16. **Retail dashboard** -- built a series of visualizations and a dashboard using SQL queries and Redash. Calculated and checked the dynamics of **MAU** and **AOV**. Found an anomaly in data, defined the market generating the majority of revenue, analyzed the most popular goods sold in the store. Wrote a dashboard summary with recommendation to push up sales.
 17. **Video games** --  analising video games sales dynamics with Pandas. Read_csv, head, columns, dtypes, info, isna, dropna, describe, mode, shape, groupby, agg, sort_values, rename, index, to_list, value_counts methods were user for Exploratory Data Analysis. Barplot, boxplot and lineplot were used for graphing results.    
 18. **Ads conversion** -- calculating **CTR, CPC, CR** metrics. Plotting them using distplot, hist, displot and histplot methods.
+19. **Yandex Music** -- analyzing music streaming platform songs popularity, comparing music preferences and listening templates in Moscow and Saint-Petersburg. Reading and cleaning data, renaming columns, removing duplicates, dealing with missing data, slicing dataframe to query required portion of data.
 
 
 
