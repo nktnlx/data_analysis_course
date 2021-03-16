@@ -51,7 +51,8 @@ The course curriculum includes the following technologies and topics mastered by
 17. **Video games** --  analising video games sales dynamics with Pandas. Read_csv, head, columns, dtypes, info, isna, dropna, describe, mode, shape, groupby, agg, sort_values, rename, index, to_list, value_counts methods were user for Exploratory Data Analysis. Barplot, boxplot and lineplot were used for graphing results.    
 18. **Ads conversion** -- calculating **CTR, CPC, CR** metrics. Plotting them using distplot, hist, displot and histplot methods.
 19. **Yandex Music** -- analyzing music streaming platform songs popularity, comparing music preferences and listening templates in Moscow and Saint-Petersburg. Reading and cleaning data, renaming columns, removing duplicates, dealing with missing data, slicing dataframe to query required portion of data.  
-20. **Bikes rent in London** -- loading dataset, plotting rides count data, resampling timestamps, describing the main trends, looking for anomaly values by smoothing the data with a **simple moving average**, calculating the difference between the real data and smoothed data, finding **standard deviation** and defining the **99% confidence interval**. Then we compare values with the confidence interval to find data hikes and explain them.
+20. **Bikes rent in London** -- loading dataset, plotting rides count data, resampling timestamps, describing the main trends, looking for anomaly values by smoothing the data with a **simple moving average**, calculating the difference between the real data and smoothed data, finding **standard deviation** and defining the **99% confidence interval**. Then we compare values with the confidence interval to find data hikes and explain them.  
+21. **Delivery A/B** -- Finding how a new navigational algorithm has changed the delivery time of the service. Formulating null and alternative hypothesis and performing A/B test with help of t-test.
 
 
 
