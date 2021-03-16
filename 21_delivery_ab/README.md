@@ -2,7 +2,7 @@ This is the 21st dataset analyzed by me while passing [data analysis course](htt
 
 
 
-Delivery A/B** -- Finding how a new navigational algorithm has changed the delivery time of the service. Formulating null and alternative hypothesis and performing A/B test with help of t-test.
+Delivery A/B -- Finding how a new navigational algorithm has changed the delivery time of the service. Formulating null and alternative hypothesis and performing A/B test with help of t-test.
  
 
 
