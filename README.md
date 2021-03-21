@@ -52,7 +52,8 @@ The course curriculum includes the following technologies and topics mastered by
 18. **Ads conversion** -- calculating **CTR, CPC, CR** metrics. Plotting them using distplot, hist, displot and histplot methods.
 19. **Yandex Music** -- analyzing music streaming platform songs popularity, comparing music preferences and listening templates in Moscow and Saint-Petersburg. Reading and cleaning data, renaming columns, removing duplicates, dealing with missing data, slicing dataframe to query required portion of data.  
 20. **Bikes rent in London** -- loading dataset, plotting rides count data, resampling timestamps, describing the main trends, looking for anomaly values by smoothing the data with a **simple moving average**, calculating the difference between the real data and smoothed data, finding **standard deviation** and defining the **99% confidence interval**. Then we compare values with the confidence interval to find data hikes and explain them.  
-21. **Delivery A/B** -- Finding how a new navigational algorithm has changed the delivery time of the service. Formulating null and alternative hypothesis and performing A/B test with help of t-test.
+21. **Delivery A/B** -- Finding how a new navigational algorithm has changed the delivery time of the service. Formulating null and alternative hypothesis and performing A/B test with help of t-test.  
+22. **App interface A/B** -- Testing how images aspect ratio and a new order button design influence on the amount of orders placed by customers. Performed Levene's test to check group variance equality, Shapiro-Wilk test to check groups for normality, one-way ANOVA to check statistically significant difference between tested groups, Tukey's test to find statistically significant difference between groups, linear model multivariate analysis of variance, visualized and interpreted results, gave recommendations to put (or not to put) changes into production.
 
 
 
