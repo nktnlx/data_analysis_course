@@ -55,6 +55,7 @@ The course curriculum includes the following technologies and topics mastered by
 21. **Delivery A/B** -- Finding how a new navigational algorithm has changed the delivery time of the service. Formulating null and alternative hypothesis and performing A/B test with help of t-test.  
 22. **App interface A/B** -- Testing how images aspect ratio and a new order button design influence on the amount of orders placed by customers. Performed Levene's test to check group variance equality, Shapiro-Wilk test to check groups for normality, one-way ANOVA to check statistically significant difference between tested groups, Tukey's test to find statistically significant difference between groups, linear model multivariate analysis of variance, visualized and interpreted results, gave recommendations to put (or not to put) changes into production.  
 23. **Cars sales** -- predicting cars sales price using linear regerssion models (statsmodels.api & statsmodels.formula.api). Finding statistically significant predictors.  
+24. **Bootstrap A/B** -- comparing results of Mann-Whitney test and Bootstrap mean/median running on data with and without outliers.  
 
 
 
