@@ -57,6 +57,7 @@ The course curriculum includes the following technologies and topics mastered by
 23. **Cars sales** -- predicting cars sales price using linear regression models (statsmodels.api & statsmodels.formula.api). Finding statistically significant predictors.  
 24. **Bootstrap A/B** -- comparing results of Mann-Whitney test and Bootstrap mean/median running on data with and without outliers.  
 25. **Mobile App A/A** -- running A/A test to check data splitting system works well. Unfortunately, we were not able to pass the test (FPR was greater than significance value). Thus, we have to dig into data and find the reason of malfunction. After removing the corrupted data we were able to pass the A/A-test.
+26. **Taxi Churn** -- performing Exploratory Data Analysis, defining churn, checking distributions for normality with Shapiro-Wilk test, plotting data using plotly and A/B testing four different hypothesis with Chi-squared test, Kruskal-Wallis test, Mann-Whitney U non-pararmetric test.
 
 
 
