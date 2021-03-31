@@ -32,10 +32,10 @@ The course curriculum includes the following technologies and topics mastered by
    
    
 **List of projects:**
-1. **Taxi in NYC** -- analising NYC taxi orders with Pandas. Read_csv, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis.
-2. **Hotel Bookings** -- analising hotel bookings with Pandas. Read_csv, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis. Customers **Churn rate** was calculated.  
-3. **User Logs** -- analising customers data. Finding the most popular platform and the most active users. Visualizing data with Seaborn distplot, barplot and countplot methods.       
-4. **Taxi in Peru** -- analising  taxi orders in Peru with Pandas. An Exploratory Data Analysis was performed. Drivers' score, passengers' score, **DAU** and **MAU** metrics were calculated and plotted with Seaborn.   
+1. **[Taxi in NYC]**(https://github.com/nktnlx/data_analysis_course/tree/main/1_taxi_in_nyc) -- analising NYC taxi orders with Pandas. Read_csv, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis.
+2. [**Hotel Bookings**](https://github.com/nktnlx/data_analysis_course/tree/main/2_hotel_bookings) -- analising hotel bookings with Pandas. Read_csv, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis. Customers **Churn rate** was calculated.  
+3. [User Logs](https://github.com/nktnlx/data_analysis_course/tree/main/3_user_logs) -- analising customers data. Finding the most popular platform and the most active users. Visualizing data with Seaborn distplot, barplot and countplot methods.       
+4. [`Taxi in Peru`](https://github.com/nktnlx/data_analysis_course/tree/main/4_taxi_peru) -- analising  taxi orders in Peru with Pandas. An Exploratory Data Analysis was performed. Drivers' score, passengers' score, **DAU** and **MAU** metrics were calculated and plotted with Seaborn.   
 5. **Raw Data Handling** -- creating dataframe from a set of csv-files stored in various folders. Practicing Python skills to automate data handling.  
 6. **Retail in Germany** -- having a dataset with purchases of clients from Europe. Count basic sales statistics for clients from Germany. Duplicated, drop_duplicates, groupby, agg, query, sort_values, assign, quantile and str methods were used for Exploratory Data Analysis. 
 7. **Error in Transactions Data** -- we've found and corrected an error while analising a dataset with transactions. Plotting data in logarithmic scale, converting data to datetime format as well as implementing describe, isna, sum, value_counts, groupby, agg, query, sort_values, rename, min, max and pivot methods were used for Exploratory Data Analysis.   
