@@ -2,7 +2,7 @@ This is the 26th dataset analyzed by me while passing [data analysis course](htt
 
 
 
-Taxi Churn -- performing Exploratory Data Analysis, defining churn, checking distributions for normality with Shapiro-Wilk test, plotting data using plotly and A/B testing four different hypothesis with Chi-squared test, Dunn's test, Mann-Whitney U non-pararmetric test.
+Taxi Churn -- performing Exploratory Data Analysis, defining churn, checking distributions for normality with Shapiro-Wilk test, plotting data using plotly and A/B testing four different hypothesis with Chi-squared test, Dunn's test, Mann-Whitney U non-parametric test.
 
  
 
