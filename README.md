@@ -61,7 +61,8 @@ The course curriculum includes the following technologies and topics mastered by
 27. [A/B simulation](https://github.com/nktnlx/data_analysis_course/tree/main/27_ab_simulation) -- performed a range of A/B tests to simulate how sample size and the magnitude of difference between samples influence A/B tests performance. Investigated situations when we could have a false positive error. Gained valuable **lessons on A/B tests performance**.  
 28. [Sales Monthly Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/SalesMonthlyOverviewpractice1/Dashboard1) -- **Tableau Public dashboard** consisted of: KPIs, line chart, bar chart, table by category with bar charts.  
 29. [Profit Monthly Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/ProfitMonthlyOverviewpractice2/ProfitMonthlyOverview) -- **Tableau Public dashboard** consisted of: KPIs, line chart, bar chart, table by region with bar charts, profit ratio by category with horizontal bar charts.  
-30. [Analytics Vacancies Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/AnalyticsVacanciesOverviewpractice3/Dashboard1) -- **Tableau Public dashboard** consisted of: horizontal bar chart, pie chart, boxplot and bubble chart.
+30. [Analytics Vacancies Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/AnalyticsVacanciesOverviewpractice3/Dashboard1) -- **Tableau Public dashboard** consisted of: horizontal bar chart, pie chart, boxplot and bubble chart.  
+31. [Sales Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/SalesOverviewpractice4/published) -- **Tableau Public dashboard** consisted of: horizontal bar tables, sparklines, KPI, line charts and various filters and sortings to display the data.
 
 
 
