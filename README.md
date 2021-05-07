@@ -20,7 +20,7 @@ The course curriculum includes the following technologies and topics mastered by
 13. Statistics
 14. A/B-tests
 15. Bootstrapping
-16. Power Analysis
+16. Amplitude
 17. Tableau
 18. DAU, MAU, ARPU, LTV, Retention, CR and other metrics
 19. Product Development basics
@@ -63,7 +63,8 @@ The course curriculum includes the following technologies and topics mastered by
 29. [Profit Monthly Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/ProfitMonthlyOverviewpractice2/ProfitMonthlyOverview) -- **Tableau Public dashboard** consisted of: KPIs, line chart, bar chart, table by region with bar charts, profit ratio by category with horizontal bar charts.  
 30. [Analytics Vacancies Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/AnalyticsVacanciesOverviewpractice3/Dashboard1) -- **Tableau Public dashboard** consisted of: horizontal bar chart, pie chart, boxplot and bubble chart.  
 31. [Sales Overview](https://public.tableau.com/profile/nktn.lx#!/vizhome/SalesOverviewpractice4/published) -- **Tableau Public dashboard** consisted of: horizontal bar tables, sparklines, KPI, line charts and various filters and sortings to display the data.
-32. [Airbnb Listings Analytics](https://public.tableau.com/profile/nktn.lx#!/vizhome/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1) -- **Tableau Public dashboard** consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top 10 listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighbourhood, occupation rate and a number of reviews per the last twelve month.
+32. [Airbnb Listings Analytics](https://public.tableau.com/profile/nktn.lx#!/vizhome/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1) -- **Tableau Public dashboard** consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top 10 listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighbourhood, occupation rate and a number of reviews per the last twelve month.  
+33. [Metrics calculations](https://github.com/nktnlx/data_analysis_course/tree/main/33_metrics_calc) -- Google analytics data cleaning and calculation of following **metrics**: number of unique users, conversion, average check, average purchases per user, **ARPPU, ARPU**.
 
 
 
