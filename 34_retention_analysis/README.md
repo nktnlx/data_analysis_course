@@ -3,7 +3,7 @@ This is the 32nd dataset analyzed by me while passing [data analysis course](htt
 
 
 
-Retention Analysis](https://public.tableau.com/profile/nktn.lx#!/vizhome/RetentionAnalysispractice6/Dashboard1) -- **Tableau Public dashboard** contains users retention and ARPU highlight tables.
+[Retention Analysis](https://public.tableau.com/profile/nktn.lx#!/vizhome/RetentionAnalysispractice6/Dashboard1) -- **Tableau Public dashboard** contains users retention and ARPU highlight tables.
  
 
 
