@@ -3,7 +3,11 @@ This is the 32nd dataset analyzed by me while passing [data analysis course](htt
 
 
 
-[Airbnb Listings Analytics](https://public.tableau.com/profile/nktn.lx#!/vizhome/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1) -- **Tableau Public dashboard** consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top 10 listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighbourhood, occupation rate and a number of reviews per the last twelve month.
+[Airbnb Listings Analytics](https://public.tableau.com/profile/nktn.lx#!/vizhome/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1) -- **Tableau Public dashboard** consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top 10 listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighbourhood, occupation rate and a number of reviews per the last twelve month.  
+
+**dashboard_canvas.pdf** -- the result of an interview with a client before creating the dashboard that reflects all the main features the dashboard will have and a general description how it'll be used.
+
+
  
 
 
