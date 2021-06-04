@@ -3,8 +3,8 @@ This is the final project done by me while passing [data analysis course](https:
 
 
 Final project -- you're employed in a mobile games development company. A Product Manager gives you following tasks:
-* Find and visualize retention.
-* Make a decision based on the A/B tests data
+* Find and visualize retention,
+* Make a decision based on the A/B test data,
 * Suggest a number of metrics to evaluate the results of the last monthly campaign.  
 
  

@@ -67,7 +67,8 @@ The course curriculum includes the following technologies and topics mastered by
 33. [Metrics calculations](https://github.com/nktnlx/data_analysis_course/tree/main/33_metrics_calc) -- Google analytics data cleaning and calculation of following **metrics**: number of unique users, conversion, average check, average purchases per user, **ARPPU, ARPU**.
 34. [Retention Analysis](https://public.tableau.com/profile/nktn.lx#!/vizhome/RetentionAnalysispractice6/Dashboard1) -- **Tableau Public dashboard** contains users retention and ARPU highlight tables.
 35. [RFM analysis](https://github.com/nktnlx/data_analysis_course/tree/main/35_rfm_analysis) -- performed **RFM analysis**, built **LTV** heatmap and found insights about users segmentation.  
-36. [Probabilities](https://github.com/nktnlx/data_analysis_course/tree/main/36_probabilities) -- solving **probability theory problems** including AND/OR probabilities, Bernoulli trial and conditional probability (the Bayes theorem).
+36. [Probabilities](https://github.com/nktnlx/data_analysis_course/tree/main/36_probabilities) -- solving **probability theory problems** including AND/OR probabilities, Bernoulli trial and conditional probability (the Bayes theorem).  
+37. [Final project](https://github.com/nktnlx/data_analysis_course/tree/main/37_final_project) -- you're employed in a mobile games development company. A Product Manager gives you following tasks: find and visualize retention, make a decision based on the A/B test data, suggest a number of metrics to evaluate the results of the last monthly campaign.  
 
 
 <br>
